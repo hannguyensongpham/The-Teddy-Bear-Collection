@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* navbar and footer styling */
+.navbar, footer {
+    background-color: #d8401f;
+}
+
+#image2 {
+    background-color: #d8401f;
+}
+
+#image1 {
+    background-color: #38527b;
+}
+
+#image3 {
+    background-color: #297034;
+}
+
+/* Main styling */
+h2 {
+    text-transform: uppercase;
+}
+
+#bobbie {
+    background-color: rgb(22, 89, 48);
+}
+
+#beary {
+    background-color: rgb(185, 91, 105);
+}
+
+/* Footer */
+ul li {
+    list-style-type: none;
+}
+
+input {
+    width: 250px;
+    height: 34px;
+    margin-bottom: 5px !important;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+}
